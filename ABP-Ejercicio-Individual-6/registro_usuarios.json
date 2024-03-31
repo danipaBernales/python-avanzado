@@ -1,0 +1,26 @@
+{
+    "Juan Perez": {
+        "nombre": "Juan Perez",
+        "nombre_usuario": "juanperez",
+        "identificador": "123456",
+        "contraseña": "abc123def456"
+    },
+    "María López": {
+        "nombre": "María López",
+        "nombre_usuario": "marialopez",
+        "identificador": "789012",
+        "contraseña": "ghi789jkl012"
+    },
+    "Carlos García": {
+        "nombre": "Carlos García",
+        "nombre_usuario": "carlosgarcia",
+        "identificador": "345678",
+        "contraseña": "mno345pqr678"
+    },
+    "Ana Martínez": {
+        "nombre": "Ana Martínez",
+        "nombre_usuario": "anamartinez",
+        "identificador": "901234",
+        "contraseña": "stu901vwx234"
+    }
+}
